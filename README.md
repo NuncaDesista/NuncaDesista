@@ -1,5 +1,6 @@
 ### Reach out to me
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][gmail]
 <br>
 ### Tech I use
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
@@ -15,3 +16,4 @@
 </details>
 
 [twitter]: https://twitter.com/NuncaDesista06
+[gmail]: https://gmail.com/
