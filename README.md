@@ -14,4 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuncaDesista&layout=compact" >
 </details>
 
-[twitter]: https://twitter.com/NuncaDesista
+[twitter]: https://twitter.com/NuncaDesista06
